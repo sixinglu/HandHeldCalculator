@@ -390,7 +390,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Calculator/calculation.swift"
@@ -570,11 +570,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CalculatorTests/CalculatorTests.swift"
-            timestampString = "476514785.650077"
+            timestampString = "476865743.106841"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
             landmarkName = "testChangeModeOutput()"
             landmarkType = "5">
             <Locations>
@@ -618,11 +618,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CalculatorTests/CalculatorTests.swift"
-            timestampString = "476514785.650077"
+            timestampString = "476865743.106841"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
             landmarkName = "testChangeModeOutput()"
             landmarkType = "5">
          </BreakpointContent>
@@ -634,22 +634,6 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             breakpointStackSelectionBehavior = "1">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CalculatorTests/CalculatorTests.swift"
-            timestampString = "476513917.217012"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "setUp()"
-            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -675,11 +659,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CalculatorTests/CalculatorTests.swift"
-            timestampString = "476518438.09326"
+            timestampString = "476865743.106841"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "79"
-            endingLineNumber = "79"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
             landmarkName = "testCalculate()"
             landmarkType = "5">
          </BreakpointContent>
@@ -691,11 +675,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CalculatorTests/CalculatorTests.swift"
-            timestampString = "476518486.063644"
+            timestampString = "476865743.106841"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "97"
-            endingLineNumber = "97"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
             landmarkName = "testCalculate()"
             landmarkType = "5">
          </BreakpointContent>
@@ -707,11 +691,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CalculatorTests/CalculatorTests.swift"
-            timestampString = "476520969.684438"
+            timestampString = "476865743.106841"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "116"
-            endingLineNumber = "116"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
             landmarkName = "testReOrganzeExpression()"
             landmarkType = "5">
          </BreakpointContent>
@@ -723,11 +707,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CalculatorTests/CalculatorTests.swift"
-            timestampString = "476521862.166234"
+            timestampString = "476865743.106841"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "136"
-            endingLineNumber = "136"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
             landmarkName = "testString2number()"
             landmarkType = "5">
             <Locations>
@@ -771,11 +755,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CalculatorTests/CalculatorTests.swift"
-            timestampString = "476521862.166234"
+            timestampString = "476865743.106841"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "145"
-            endingLineNumber = "145"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
             landmarkName = "testString2number()"
             landmarkType = "5">
             <Locations>
@@ -819,11 +803,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CalculatorTests/CalculatorTests.swift"
-            timestampString = "476564406.343787"
+            timestampString = "476865743.106841"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "160"
-            endingLineNumber = "160"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
             landmarkName = "testCalWithNoParenthesis()"
             landmarkType = "5">
             <Locations>

@@ -52,7 +52,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="-2" y="535" width="79" height="65"/>
+                                    <rect key="frame" x="2" y="535" width="71" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="dAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="hsZ-0d-xqX"/>
@@ -67,7 +67,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="79" y="535" width="79" height="65"/>
+                                    <rect key="frame" x="75" y="535" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="eAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="ABk-8u-Gmh"/>
@@ -82,21 +82,6 @@
                                     <rect key="frame" x="0.0" y="61" width="400" height="68"/>
                                 </variation>
                             </textView>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yrl-ol-07R">
-                                <rect key="frame" x="-23" y="-15" width="46" height="30"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="43"/>
-                                <state key="normal" title="=">
-                                    <color key="titleColor" red="1" green="0.5" blue="0.0" alpha="0.5" colorSpace="calibratedRGB"/>
-                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                </state>
-                                <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="322" y="535" width="79" height="65"/>
-                                </variation>
-                                <connections>
-                                    <action selector="equalAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="PCK-as-gqZ"/>
-                                </connections>
-                            </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GTy-We-cXz">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -106,7 +91,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="241" y="535" width="79" height="65"/>
+                                    <rect key="frame" x="225" y="535" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="zeroAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="bPO-R4-hgX"/>
@@ -121,7 +106,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="160" y="535" width="79" height="65"/>
+                                    <rect key="frame" x="150" y="535" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="fAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="D7E-KH-Loh"/>
@@ -136,7 +121,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="-2" y="468" width="79" height="65"/>
+                                    <rect key="frame" x="2" y="468" width="71" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="aAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="q97-36-JHP"/>
@@ -151,7 +136,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="79" y="468" width="79" height="65"/>
+                                    <rect key="frame" x="75" y="468" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="bAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="4Ou-ZQ-1MS"/>
@@ -166,7 +151,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="322" y="468" width="79" height="65"/>
+                                    <rect key="frame" x="300" y="468" width="72" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="parentheseAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="F3F-sP-2j9"/>
@@ -181,7 +166,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="241" y="468" width="79" height="65"/>
+                                    <rect key="frame" x="225" y="468" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="minusAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="BN1-fI-cf6"/>
@@ -196,7 +181,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="160" y="468" width="79" height="65"/>
+                                    <rect key="frame" x="150" y="468" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="cAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Ry7-Zc-1Pe"/>
@@ -211,7 +196,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="-2" y="401" width="79" height="65"/>
+                                    <rect key="frame" x="2" y="401" width="71" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="oneAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Gwa-MO-hcW"/>
@@ -226,7 +211,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="79" y="401" width="79" height="65"/>
+                                    <rect key="frame" x="75" y="401" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="twoAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="sAF-uW-Jzd"/>
@@ -241,7 +226,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="322" y="401" width="79" height="65"/>
+                                    <rect key="frame" x="300" y="401" width="72" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="pointAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="e4x-ou-Luz"/>
@@ -256,7 +241,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="241" y="401" width="79" height="65"/>
+                                    <rect key="frame" x="225" y="401" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="plusAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="ZkW-cK-MyI"/>
@@ -271,7 +256,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="160" y="401" width="79" height="65"/>
+                                    <rect key="frame" x="150" y="401" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="threeAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="JlO-5Y-PWB"/>
@@ -286,7 +271,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="-2" y="334" width="79" height="65"/>
+                                    <rect key="frame" x="2" y="334" width="71" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="fourAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="cxN-7s-xXS"/>
@@ -301,7 +286,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="79" y="334" width="79" height="65"/>
+                                    <rect key="frame" x="75" y="334" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="fiveAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="6Nm-J9-QF0"/>
@@ -316,7 +301,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="322" y="334" width="79" height="65"/>
+                                    <rect key="frame" x="300" y="334" width="72" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="plusminusAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="RkK-vS-fpM"/>
@@ -331,7 +316,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="241" y="334" width="79" height="65"/>
+                                    <rect key="frame" x="225" y="334" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="divideAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="hAQ-bj-dk4"/>
@@ -346,7 +331,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="160" y="334" width="79" height="65"/>
+                                    <rect key="frame" x="150" y="334" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="sixAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="iEe-sK-I4n"/>
@@ -361,7 +346,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="-2" y="267" width="79" height="65"/>
+                                    <rect key="frame" x="2" y="267" width="71" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="sevenAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="IdE-41-4NW"/>
@@ -376,7 +361,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="79" y="267" width="79" height="65"/>
+                                    <rect key="frame" x="75" y="267" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="eightAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Ryu-77-XN0"/>
@@ -391,7 +376,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="241" y="267" width="79" height="65"/>
+                                    <rect key="frame" x="225" y="267" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="sqrtAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="vMI-zd-6N8"/>
@@ -406,7 +391,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="160" y="267" width="79" height="65"/>
+                                    <rect key="frame" x="150" y="267" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="nineAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Jhn-pa-OpT"/>
@@ -421,7 +406,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="-2" y="200" width="79" height="65"/>
+                                    <rect key="frame" x="2" y="200" width="71" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="powAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="UcU-oD-p9J"/>
@@ -436,7 +421,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="79" y="200" width="79" height="65"/>
+                                    <rect key="frame" x="75" y="200" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="percentAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="cBk-vU-qDg"/>
@@ -451,7 +436,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="322" y="200" width="79" height="65"/>
+                                    <rect key="frame" x="300" y="200" width="72" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="ClearAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="XcQ-J9-rdr"/>
@@ -466,7 +451,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="241" y="200" width="79" height="65"/>
+                                    <rect key="frame" x="225" y="200" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="multiplyAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="vQ0-Mf-5Lx"/>
@@ -481,7 +466,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="160" y="200" width="79" height="65"/>
+                                    <rect key="frame" x="150" y="200" width="73" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="logAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="xtY-bf-AY3"/>
@@ -494,7 +479,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="0.0" y="143" width="77" height="55"/>
+                                    <rect key="frame" x="2" y="143" width="71" height="55"/>
                                 </variation>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VGS-1V-lS7">
@@ -506,7 +491,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="79" y="143" width="79" height="55"/>
+                                    <rect key="frame" x="75" y="143" width="73" height="55"/>
                                 </variation>
                                 <connections>
                                     <action selector="DecAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="cuw-OO-N48"/>
@@ -521,7 +506,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="160" y="143" width="79" height="55"/>
+                                    <rect key="frame" x="150" y="143" width="73" height="55"/>
                                 </variation>
                                 <connections>
                                     <action selector="OctAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="K13-AS-l7i"/>
@@ -536,7 +521,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="241" y="143" width="79" height="55"/>
+                                    <rect key="frame" x="225" y="143" width="73" height="55"/>
                                 </variation>
                                 <connections>
                                     <action selector="BinAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="1au-OS-0ir"/>
@@ -551,7 +536,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="322" y="143" width="79" height="55"/>
+                                    <rect key="frame" x="300" y="143" width="72" height="55"/>
                                 </variation>
                                 <connections>
                                     <action selector="HexAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="l0X-km-gEy"/>
@@ -566,10 +551,25 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="322" y="267" width="86" height="65"/>
+                                    <rect key="frame" x="300" y="267" width="72" height="65"/>
                                 </variation>
                                 <connections>
                                     <action selector="deleteAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="58E-20-CmF"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Yrl-ol-07R">
+                                <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="43"/>
+                                <state key="normal" title="=">
+                                    <color key="titleColor" red="1" green="0.5" blue="0.0" alpha="0.5" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <variation key="widthClass=compact" fixedFrame="YES">
+                                    <rect key="frame" x="300" y="535" width="72" height="65"/>
+                                </variation>
+                                <connections>
+                                    <action selector="equalAction:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="PCK-as-gqZ"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -581,7 +581,6 @@
                                 <exclude reference="t5u-E6-jQ9"/>
                                 <exclude reference="zL6-eL-ifs"/>
                                 <exclude reference="kGc-t3-VBh"/>
-                                <exclude reference="Yrl-ol-07R"/>
                                 <exclude reference="GTy-We-cXz"/>
                                 <exclude reference="M9g-51-z4f"/>
                                 <exclude reference="oSR-M2-2jT"/>
@@ -614,6 +613,7 @@
                                 <exclude reference="5fE-yg-tIv"/>
                                 <exclude reference="TJj-7R-4mb"/>
                                 <exclude reference="PWt-ku-jap"/>
+                                <exclude reference="Yrl-ol-07R"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -623,7 +623,6 @@
                                 <include reference="t5u-E6-jQ9"/>
                                 <include reference="zL6-eL-ifs"/>
                                 <include reference="kGc-t3-VBh"/>
-                                <include reference="Yrl-ol-07R"/>
                                 <include reference="GTy-We-cXz"/>
                                 <include reference="M9g-51-z4f"/>
                                 <include reference="oSR-M2-2jT"/>
@@ -656,6 +655,7 @@
                                 <include reference="5fE-yg-tIv"/>
                                 <include reference="TJj-7R-4mb"/>
                                 <include reference="PWt-ku-jap"/>
+                                <include reference="Yrl-ol-07R"/>
                             </mask>
                         </variation>
                     </view>

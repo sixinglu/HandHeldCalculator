@@ -64,7 +64,7 @@ class ViewController: UIViewController {
         
         mode = 0 // set the global control
         
-        // disable buttons
+        // enable buttons
         Dec.enabled = false
         Oct.enabled = true
         Bin.enabled = true

@@ -15,21 +15,10 @@ import Calculator
 class CalculatorTests: XCTestCase {
     
     let testrunCal = Calculation()
-//    var CaculatorDelegate: AppDelegate!
-//    var storyboard:UIStoryboard!
-//    var MainVC:ViewController!
-//    var MainView:UIView!
     
     
     override func setUp() {
         super.setUp()
-        // Put setup code here. This method is called before the invocation of each test method in the class.
-        
-//        self.CaculatorDelegate = UIApplication.sharedApplication().delegate as! AppDelegate
-//        self.storyboard = UIStoryboard(name: "Main", bundle: NSBundle(forClass: self.dynamicType))
-//        self.MainVC = storyboard.instantiateViewControllerWithIdentifier("Main") as! ViewController
-//        self.MainVC.loadView()
-//        self.MainView = MainVC.view
         
     }
     
